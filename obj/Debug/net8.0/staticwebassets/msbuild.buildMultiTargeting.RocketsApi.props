@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RocketsApi.props" />
+</Project>
